@@ -114,7 +114,7 @@ python finger_gesture.py
 
 ☝️ ONE (telunjuk)                   [Perkenalkan]   
 
-✌️ TWO (peace sign)                 [Nama Saya Firamawaty Andhika] 
+✌️ TWO (peace sign)                 [Nama Saya Andhika] 
 
 ✋ FIVE (telapak terbuka)           [Hallo]         
 
